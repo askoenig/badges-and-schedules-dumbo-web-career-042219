@@ -8,5 +8,5 @@ def batch_badge_creator(attendees)
   new_badges
 end 
 
-def assign_rooms(attendees)
+def assign_rooms(attendees, rooms)
 "Hello, _____! You'll be assigned to room _____!"
